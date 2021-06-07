@@ -1,6 +1,8 @@
 # ProductBox-Frontend-Challenge-Update
 Everything else is the same Just created two components in the client directory additem and view item. The Links to these components are in the Home page. You can add item through proxy from node post api to the init_json file in server directory and also can view items.
 
+First, In the root project directory hit this run this command in terminal `cd server && npm i` to install the dependencies, Then also run the command `cd client && npm i` to install client dependencies.
+
 To run the both server and client go to the server directory and hit the command `npm run dev` to start both server and client concurrently.
 
 [Server] localhost:3001 [Client] localhost:3000
